@@ -13,5 +13,5 @@ To run the printf function, you will need to have a C compiler installed on your
 
 ## Collaborators
 - Me
-- SABRI Hafsa
+- Mehdi Lahrach
 # printf
